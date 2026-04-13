@@ -1,0 +1,20 @@
+# Computational Mathematics Labs - Semester 4
+
+Laboratory reports for computational mathematics course.
+
+## Labs Overview
+
+- **Lab 1** - [Title]
+- **Lab 2** - [Title]
+- **Lab 3** - [Title]
+- **Lab 4** - [Title]
+- **Lab 5** - [Title]
+
+## Structure
+
+Each lab contains:
+- `report.md` - Main lab report
+- `data/` - Raw experimental data
+- `images/` - Diagrams, graphs, photos
+- `code/` - Scripts and code
+- `results/` - Analysis results
